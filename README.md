@@ -45,3 +45,5 @@
 
 <h4>Loss Plot:</h4>
 <img width=850 src="https://github.com/OmerFarooq246/Eye-Detection-and-Localization-in-Web-Cam-images/assets/110720771/191baa34-1b8a-40f5-8daf-a4dc5ece6d3f">
+
+<p>Transfer Learning - Xavier initialization in the notebook displays the best results.</p>
