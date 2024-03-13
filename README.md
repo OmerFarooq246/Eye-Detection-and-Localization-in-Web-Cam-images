@@ -16,7 +16,7 @@
 <h4>MPIIFaceGaze Dataset:</h4>
 <ul>
   <li>Total 213,659 images 15 participants, every 10 mins collected 20 random gaze points.</li>
-  <li>Selected Images: 1,03710 images from 7 days of 15 users.</li>
+  <li>Selected Images: 1,037 - 10 images from 7 days of 15 users.</li>
   <li>Resolution: 720, 1280 - reduced to half in project.</li>
   <li>7 Landmarks: Gaze point on screen, two corners of each eye, two corners of lips.</li>
 </ul>
