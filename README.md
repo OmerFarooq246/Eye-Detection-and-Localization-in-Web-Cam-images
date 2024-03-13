@@ -42,3 +42,6 @@
     <td>3702.9075</td>
   </tr>
 </table>
+
+<p>Loss Plot</p>
+<img width=850 src="https://github.com/OmerFarooq246/Eye-Detection-and-Localization-in-Web-Cam-images/assets/110720771/842f440a-ebf2-4928-816e-46138ff58f65">
